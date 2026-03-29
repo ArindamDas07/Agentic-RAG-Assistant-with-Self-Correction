@@ -104,7 +104,4 @@ END → format_output(state) → user-friendly message
 
 ---
 
-## License
-
-MIT License
 
