@@ -1,0 +1,10 @@
+# .dockerignore
+
+__pycache__/
+*.pyc
+venv/
+.env
+.git
+chroma_db/
+uploads/
+notebooks/
